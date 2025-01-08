@@ -1,4 +1,4 @@
-#🚀 Descripción General del Proyecto
+#Descripción General del Proyecto
 El presente proyecto tiene como objetivo analizar las diferencias de combustible Diesel en diversas sedes operativas con respecto al desempeño de los proveedores de combustible durante el periodo 2024-1 en la empresa COPEINCA SAC. A través de un dashboard interactivo en Power BI, se presenta una visión clara y estructurada de las métricas clave para la toma de decisiones estratégicas en la gestión de recursos energéticos y evaluación del desempeño de los proveedores correspondientes.
 
 #🛠️ Objetivos del Dashboard
