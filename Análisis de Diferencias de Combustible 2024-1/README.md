@@ -37,3 +37,6 @@ El presente proyecto tiene como objetivo analizar las diferencias de combustible
 -Excel (preprocesamiento de datos)
 -SQL (consultas para extracción de datos, si aplica)
 
+![Analisis de Diferencias de Combustible 2024-1 COPEINCA](https://github.com/user-attachments/assets/968c7003-6567-4da8-9943-b3ea4ac37b53)
+
+
