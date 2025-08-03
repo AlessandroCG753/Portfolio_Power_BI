@@ -26,6 +26,7 @@ Este dashboard responde a una necesidad urgente: **identificar, cuantificar y mi
 - Visualice planes de acción aplicados por negocio y material.
 
 ---
+<img width="1417" height="790" alt="Dashboard WO Corto Plazo" src="https://github.com/user-attachments/assets/eaefa39e-ef89-417d-9ddc-bcfd9b247e0d" />
 
 ## 🧩 Dataset y Modelo de Datos
 
