@@ -12,7 +12,8 @@ El tablero de MPA tiene como finalidad cuantificar de forma visual, dinámica y 
 
 Se busca con esto facilitar la toma de decisiones, identificar materiales críticos, evaluar la confiabilidad de los proveedores y prevenir paradas de producción por quiebre de stock.
 
-![Uploading Dashboard MPR .png…]()
+<img width="1411" height="787" alt="Dashboard MPR " src="https://github.com/user-attachments/assets/4fbd0a3a-b22b-492c-ac9e-09401b5fad73" />
+
 
 ---
 
